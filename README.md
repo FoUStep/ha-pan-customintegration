@@ -1,0 +1,31 @@
+_@18th May 2023: Tested on PA-440._
+
+
+**Setup instructions**:
+1. Upload folder including all files to /config/custom_components/ on Home Assistant host.
+2. Add to configuration.yaml:
+```yaml
+  # Palo Alto Networks custom integration
+  - platform: paloalto
+    api_key: !secret paloalto_authkey
+    ip_address: !secret paloalto_hostip
+    monitored_conditions:
+      - host_name
+      - up_time
+      - serial_no
+      - sw_version
+      - gp_version
+      - logdb_version
+      - operation_mode
+      - cpu_temp
+      - gp_users
+      - gp_user_count
+      - loggedin_user_count
+      - loggedin_users
+```
+3. Allow PA API access and get the API key and management IP.
+4. Add paloalto_authkey and paloalto_hostip to secrets.yaml.
+5. Restart Home Assistant.
+
+
+First repo on GitHub, bare with me.
