@@ -1,0 +1,10 @@
+{
+  "domain": "paloalto",
+  "name": "Palo Alto Networks",
+  "documentation": "https://github.com/FoUStep/ha-pan-customintegration",
+  "dependencies": [],
+  "after_dependencies": [],
+  "codeowners": ["@foustep"],
+  "requirements": [],
+  "version": "1.0.0"
+}
