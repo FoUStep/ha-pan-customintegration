@@ -6,7 +6,8 @@
 | PAN-OS         |  11.0.1 |
 | Home Assistant | 2023.5.3 |
 
-
+<br><br>
+[![GitHub release](https://img.shields.io/github/release/FoUStep/ha-pan-customintegration.svg)](https://GitHub.com/FoUStep/a-pan-customintegration/releases/)
 
 **Setup instructions**:
 1. Upload folder including all files to /config/custom_components/ on Home Assistant host.
