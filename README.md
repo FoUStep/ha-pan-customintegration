@@ -1,6 +1,11 @@
 <sub>Fork of [Skalavala's version](https://github.com/skalavala/mysmarthome), which unfortunately no longer has the code available.</sub>
 
-<sub>_@18th May 2023: Tested on PA-440._</sub>
+| @18th May 2023 | Version |
+|----------------:|----------|
+| Tested on:      |  PA-440 |
+| PAN-OS:         |  11.0.1 |
+| Home Assistant: | 2023.5.3 |
+
 
 
 **Setup instructions**:
