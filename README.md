@@ -3,8 +3,8 @@
 | @18th May 2023 | Version |
 |---------------:|----------|
 | Tested on      |  PA-440 |
-| PAN-OS         |  11.0.1 |
-| Home Assistant | 2023.5.3 |
+| PAN-OS         |  11.2.3 |
+| Home Assistant | 2024.10.1 |
 
 <br><br>
 [![GitHub release](https://img.shields.io/github/release/FoUStep/ha-pan-customintegration.svg)](https://GitHub.com/FoUStep/a-pan-customintegration/releases/)
