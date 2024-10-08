@@ -3,8 +3,11 @@
 8th October 2024
 
 Tested on: PA-440
+
 PAN-OS: 11.2.3
+
 Home Assistant: 2024.10.1
+
 
 <br><br>
 [![GitHub release](https://img.shields.io/github/release/FoUStep/ha-pan-customintegration.svg)](https://GitHub.com/FoUStep/a-pan-customintegration/releases/)
