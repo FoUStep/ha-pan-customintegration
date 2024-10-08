@@ -17,6 +17,7 @@ Home Assistant: 2024.10.1
 1. Upload folder including all files to /config/custom_components/ on Home Assistant host.
 
 **Configuration instructions**:
+
 2. Add to configuration.yaml:
 ```yaml
   # Palo Alto Networks custom integration
