@@ -4,10 +4,9 @@
   "codeowners": [
     "@foustep"
   ],
-  "config_flow": true,
   "documentation": "https://github.com/FoUStep/ha-pan-customintegration",
   "integration_type": "hub",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/FoUStep/ha-pan-customintegration/issues",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
