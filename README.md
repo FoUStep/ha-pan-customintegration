@@ -1,6 +1,6 @@
 <sub>Fork of [Skalavala's version](https://github.com/skalavala/mysmarthome), which unfortunately no longer has the code available.</sub>
 
-| @18th May 2023 | Version |
+| @8th October 2024 | Version |
 |---------------:|----------|
 | Tested on      |  PA-440 |
 | PAN-OS         |  11.2.3 |
