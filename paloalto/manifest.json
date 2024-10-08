@@ -4,7 +4,10 @@
   "documentation": "https://github.com/FoUStep/ha-pan-customintegration",
   "dependencies": [],
   "after_dependencies": [],
+  "issue_tracker": "https://github.com/FoUStep/ha-pan-customintegration/issues",
+  "integration_type": "hub",
+  "iot_class": "local_polling",
   "codeowners": ["@foustep"],
   "requirements": [],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
