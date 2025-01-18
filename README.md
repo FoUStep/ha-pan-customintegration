@@ -8,7 +8,8 @@ PAN-OS: 11.2.4-h2
 
 Home Assistant: 2025.1.2
 
-> [!WARNING] Remove from HACS the Palo Alto Networks NGFW Custom Integration
+> [!WARNING]
+> Remove from HACS the Palo Alto Networks NGFW Custom Integration
 > - Install Terminal & SSH Addon
 > - Login
 > - Remove /config/custom_components/paloalto folder
