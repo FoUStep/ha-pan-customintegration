@@ -8,6 +8,15 @@ PAN-OS: 11.2.4-h2
 
 Home Assistant: 2025.1.2
 
+ATTENTION: Update to v1.0.4 requires interaction:
+- Remove from HACS the Palo Alto Networks NGFW Custom Integration
+- Install Terminal & SSH Addon
+- Login
+- Remove /config/custom_components/paloalto folder
+- Reinstall using HACS
+- In configuration.yaml change platform: paloalto to platform: paloaltonetworks and done!
+- ???
+- Profit!
 
 <br><br>
 [![GitHub release](https://img.shields.io/github/release/FoUStep/ha-pan-customintegration.svg)](https://GitHub.com/FoUStep/a-pan-customintegration/releases/)
