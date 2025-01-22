@@ -36,7 +36,7 @@ Home Assistant: 2025.1.2
 2. Add to configuration.yaml:
 ```yaml
   # Palo Alto Networks custom integration
-  - platform: paloalto
+  - platform: paloaltonetworks
     api_key: !secret paloalto_authkey
     ip_address: !secret paloalto_hostip
     monitored_conditions:
