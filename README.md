@@ -10,13 +10,13 @@ Home Assistant: 2025.1.2
 
 
 > [!WARNING]
-> Update to 1.0.4 from previous version:
-> First remove from HACS the Palo Alto Networks NGFW Custom Integration!
+> _Update to 1.0.4 from previous version:_
+> _First remove from HACS the Palo Alto Networks NGFW Custom Integration!_
 > - Install Terminal & SSH Addon
 > - Login
-> - Remove /config/custom_components/paloalto folder
+> - Remove ```/config/custom_components/paloalto``` folder
 > - Reinstall using HACS
-> - In configuration.yaml change platform: paloalto to platform: paloaltonetworks and done!
+> - In configuration.yaml change ```platform: paloalto``` to ```platform: paloaltonetworks``` and done!
 > - ???
 > - Profit!
 
